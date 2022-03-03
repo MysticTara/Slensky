@@ -1,0 +1,36 @@
+{
+    "env": {
+        "TOKEN": "",
+        "PREFIX": ",",
+        "MongoDB_TOKEN": "",
+        "INVITE": "",
+        "WEBSITE": "",
+        "google_API": "",
+        "google_Engine_id": "",
+        "spotify_clientID": "",
+        "spotify_clientSecret": "",
+        "news_API": "",
+        "giphy_API": ""
+    },
+    "music": {
+        "musicRequestImage": "",
+        "youtubeCookie": ""
+    },
+    "botlogs": {
+        "inviteLogs": "",
+        "feedbackChannel": "",
+        "bugChannel": "",
+        "suggestionChannel": "",
+        "commandLogsChannel": "",
+        "errorLogsChannel": "",
+        "premiumLogChannel": ""
+    },
+    "events": {
+        "Enable_debug": false
+    },
+    "Premium_Activator": "", 
+    "ownerID": ["", "", "", ""],
+    "SlashCommandsGlobal": true,
+    "SlashCommand_Server_id": "",
+    "Enable_MongoDB": true
+}
