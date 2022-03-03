@@ -39,8 +39,6 @@ Cluster clx is private database powerd by Slensky team.
 • Join support server and open a Ticket.
 - Second way
 • Open repo called Slensky Cluster on our homepage or search it in on our profile, after you opens run the code and it will ask a name for the database, put a name then you will get the id and api
-.
-There is also another way to get cluster API
 
 ## Contributing
 
