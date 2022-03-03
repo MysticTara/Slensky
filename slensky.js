@@ -1,5 +1,5 @@
 require('dotenv').config();
-const config = require('./botconfig/config.json');
+const config = require('config.json');
 const ee = require('./botconfig/embed.json');
 const {
     Client,
@@ -56,5 +56,5 @@ require('events').defaultMaxListeners = 0;
 client.login(TOKEN);
 
 
-# Coded by Golden Winter with love
+# Coded by Golden Winter with love :/
 
